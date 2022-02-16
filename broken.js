@@ -4,7 +4,7 @@ const sum = (a, b) => {
   return a + b;
 };
 
-const brokenSum = (a) => {
+const brokenSum = (a,b,c) => {
   return a + b;
 };
 
@@ -12,7 +12,7 @@ const minus = (a, b) => {
   return a - b;
 };
 
-const brokeMinus = (b) => {
+const brokeMinus = (b - a) => {
   return b;
 };
 
