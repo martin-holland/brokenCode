@@ -23,3 +23,5 @@ const multiply = (a, b) => {
 console.log(sum(2, 2)); // returns 4
 console.log(sum(2, 5)); // returns 7
 console.log(sum("a", "b")); // returns ab
+console.log(brokenSum(2,2));
+console.log(brokeMinus(2,8))
